@@ -38,6 +38,6 @@ In a new shell, run
     curl http://127.0.0.1:4243
 ```
 
-you will see "World".
+you will see "World" in the new shell, the old shell will show "Hello~"
 
 

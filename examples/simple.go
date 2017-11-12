@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/saturn/fg"
+	"github.com/SaturnRings/fg"
 	"github.com/valyala/fasthttp"
 )
 
